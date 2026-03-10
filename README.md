@@ -9,7 +9,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.3+-red.svg)
 ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
 
-## 📋 Description du Projet
+##  Description du Projet
 
 Ce projet a été réalisé dans le cadre d'un Travail Pratique (TP) sur la détection de contours en vision par ordinateur. L'objectif principal est d'implémenter, comparer et analyser différentes méthodes de détection de contours :
 
