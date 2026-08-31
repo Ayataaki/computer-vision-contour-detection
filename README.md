@@ -66,7 +66,7 @@ Trois types d'images ont été utilisés pour l'expérimentation :
 - Meilleure continuité des contours
 
 
-## 🚀 Fonctionnalités du Code
+##  Fonctionnalités du Code
 
 ### Implémentation Personnalisée
 -  Opérateur de Roberts (filtres 2×2)
@@ -103,7 +103,7 @@ Trois types d'images ont été utilisés pour l'expérimentation :
 3. **Sobel** : Excellent choix général, robuste et précis
 4. **Canny** : Résultats optimaux mais plus lent, idéal pour applications critiques
 
-## 🔧 Installation et Utilisation
+##  Installation et Utilisation
 
 ### Avec Google Colab (Recommandé)
 1. Ouvrir [Google Colab](https://colab.research.google.com/)
